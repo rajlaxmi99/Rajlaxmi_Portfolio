@@ -40,7 +40,7 @@ function App() {
         "Developed an Online Banquet Booking System with venue booking and additional services like Wedding DJ, Party DJ, Ceremony music, Photo Booth, Karaoke, & Uplighters",
       technologies:
         "PHP • MySQL • HTML • CSS • Bootstrap • JavaScript",
-      github: "#",
+      github: "https://github.com/rajlaxmi99/Online-Banquet-Booking-Systems",
     },
     {
       title: "MyTask - React Todo App",

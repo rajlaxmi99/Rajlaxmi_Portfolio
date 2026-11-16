@@ -31,7 +31,7 @@ function App() {
         "A web-based library application with book search, user accounts and borrowed-book tracking.",
       technologies:
         "PHP • MySQL • HTML • CSS • Bootstrap • JavaScript",
-      github: "#",
+      github: "https://github.com/rajlaxmi99/Online-Library-Management",
     },
     {
       title: "Online Banquet Booking System",
